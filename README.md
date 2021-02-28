@@ -1,4 +1,4 @@
-# WordCount
+# WordCount (University Coding Assignment)
 
 ## _Simple word counter made on Python that helps you count the word frequency in a txt file that start with each letter of the alphabet._
 
